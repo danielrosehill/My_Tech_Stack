@@ -30,5 +30,5 @@ Desktop:
 
 
 
-![desktop](images/desktop.png)
+<img src="images/desktop.png" alt="desktop" style="zoom:50%;" />
 
