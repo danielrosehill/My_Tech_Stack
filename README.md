@@ -64,5 +64,17 @@ As a Linux user, I even save a little by avoiding wasting money on a Windows OS 
 
 I think it's an amazing happy medium between building your own computer (lots of work) and getting stuck with an off the shelf commercial build that's not going to contain exactly the components you want. 
 
+## Backup and Recovery Software
 
+I've documented a lot of my backup approach here on Github. 
+
+But to cut to the essentials.
+
+For backing up my Linux OS:
+
+- **Timeshift** is a great utility for creating convenient system restore points allowing you to quickly roll back the filesystem if you (or a package) messes something up. But it's not wise to consider it a bone fide backup tool (for one, it's typically run on the same physical hardware as the machine you're protecting).
+
+For actual backups, I personally feel most comfortable going with block-level disc imaging tools that really try to mop up every last byte of information on the disc.
+
+The two I use frequently are: **Veeam Agent for Linux** and **Clonezilla** (both have plenty of merits.). I try to clone my OS every 3 months.
 
