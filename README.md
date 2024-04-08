@@ -14,6 +14,8 @@ I figure this might save me a bit of time in representing (mostly) the same prod
 
 [TOC]
 
+
+
 ------
 
 # Hardware, Infrastructure, Networking
@@ -410,6 +412,34 @@ You can take a very solid backup of whatever you're running by creating a live d
 ## Backblaze B2
 
 Although I use good old optical media for archiving video and photo data, I still see a lot of utility in cloud storage for hosting offsite backups (and remember: a backup isn't really a backup until it's got an offsite copy!). 
+
+# Summary Of Recommendations
+
+*Like this post, periodically updated (maybe)*
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+
+
 
 ----
 
