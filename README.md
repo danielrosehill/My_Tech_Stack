@@ -12,10 +12,6 @@ I figure this might save me a bit of time in representing (mostly) the same prod
 
 ------
 
-{% include toc.html html=content %}
-
-------
-
 # Hardware, Infrastructure, Networking
 
 ## Desktop OS: Ubuntu Linux (LTS)
@@ -415,27 +411,33 @@ Although I use good old optical media for archiving video and photo data, I stil
 
 *Like this post, periodically updated (maybe)*
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+
+
+| **Use**                                                | **What I Like**                                            | Free / Paid          |
+| ------------------------------------------------------ | ---------------------------------------------------------- | -------------------- |
+| **Hardware, Networking, Infrastucture**                |                                                            |                      |
+| Desktop OS                                             | Ubuntu Linux                                               | Free                 |
+| Virtualizing Windows in Linux                          | VMWare Workstation, VMWare Player                          | Paid, Free           |
+| Desktop computers                                      | Pre-assembly based on custom component selection (service) | Paid                 |
+| Self-hosting - VMs, LXCsc, Docker Containers, Whatever | Proxmox Virtual Environment                                | Free                 |
+| Backup and file server                                 | Synology NAS                                               | Paid                 |
+| Remote access to local resources                       | Tailscale                                                  | Free Tiers Available |
+| Connection bonding; enhanced remote connectivity       | Speedify                                                   | Paid                 |
+| Affordable online VPS hosting                          | Digital Ocean                                              | Paid                 |
+| Code repositories, open-sourcing                       | Github                                                     | Free                 |
+| Home automation                                        | Home Assistant OS                                          | Free                 |
+| NFC                                                    | NFC Tools, NFC Shop                                        | Depends              |
+| **Misc Software, Especially Linux-Friendly**           |                                                            |                      |
+| Drafting Markdown (.md) files                          | Typora                                                     | Paid                 |
+| Markdown-friendly note taking                          | Obsidian                                                   | Both                 |
+| Editing CSV files (on Ubuntu)                          | Modern CSV                                                 | Free and Paid Tiers  |
+| IDE                                                    | Visual Studio Code                                         | Free                 |
+| AI-assisted development                                | Cursor (Cursor.sh)                                         | Free and Paid Tiers  |
+| **Self-Hostable Apps, Containers**                     |                                                            |                      |
+| Data Visualisation                                     | Metabase                                                   | Free (self-hosted)   |
+| Inventory manager for the home user                    | Homebox                                                    | Free                 |
+| Image level backup                                     | Clonezilla                                                 | Free                 |
+| Object storage                                         | Backblaze B2                                               | Paid                 |
 
 
 
