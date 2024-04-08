@@ -4,6 +4,8 @@ I created this repository to host a periodically-updated list of my favorite tec
 
 I figure this might save me a bit of time in representing (mostly) the same products to friends, colleagues, etc.
 
+If you're interested, read! If you just want my recommendations, [skip to the summary.](https://github.com/danielrosehill/My_Tech_Stack?tab=readme-ov-file#summary-of-recommendations)
+
 **Changelog**
 
 - Updated and added five stars for services that I *really* like! These are my strongest recommendations.
@@ -407,7 +409,7 @@ You can take a very solid backup of whatever you're running by creating a live d
 
 Although I use good old optical media for archiving video and photo data, I still see a lot of utility in cloud storage for hosting offsite backups (and remember: a backup isn't really a backup until it's got an offsite copy!). 
 
-# Summary Of Recommendations
+# The "Stuff I Like" List (04/2024)
 
 *Like this post, periodically updated (maybe)*
 
@@ -415,7 +417,7 @@ Although I use good old optical media for archiving video and photo data, I stil
 
 | **Use**                                                | **What I Like**                                            | Free / Paid          |
 | ------------------------------------------------------ | ---------------------------------------------------------- | -------------------- |
-| **Hardware, Networking, Infrastucture**                |                                                            |                      |
+| ***Hardware, Networking, Infrastucture***              |                                                            |                      |
 | Desktop OS                                             | Ubuntu Linux                                               | Free                 |
 | Virtualizing Windows in Linux                          | VMWare Workstation, VMWare Player                          | Paid, Free           |
 | Desktop computers                                      | Pre-assembly based on custom component selection (service) | Paid                 |
@@ -427,13 +429,15 @@ Although I use good old optical media for archiving video and photo data, I stil
 | Code repositories, open-sourcing                       | Github                                                     | Free                 |
 | Home automation                                        | Home Assistant OS                                          | Free                 |
 | NFC                                                    | NFC Tools, NFC Shop                                        | Depends              |
-| **Misc Software, Especially Linux-Friendly**           |                                                            |                      |
+|                                                        |                                                            |                      |
+| ***Misc Software, Especially Linux-Friendly***         |                                                            |                      |
 | Drafting Markdown (.md) files                          | Typora                                                     | Paid                 |
 | Markdown-friendly note taking                          | Obsidian                                                   | Both                 |
 | Editing CSV files (on Ubuntu)                          | Modern CSV                                                 | Free and Paid Tiers  |
 | IDE                                                    | Visual Studio Code                                         | Free                 |
 | AI-assisted development                                | Cursor (Cursor.sh)                                         | Free and Paid Tiers  |
-| **Self-Hostable Apps, Containers**                     |                                                            |                      |
+|                                                        |                                                            |                      |
+| ***Self-Hostable Apps, Containers***                   |                                                            |                      |
 | Data Visualisation                                     | Metabase                                                   | Free (self-hosted)   |
 | Inventory manager for the home user                    | Homebox                                                    | Free                 |
 | Image level backup                                     | Clonezilla                                                 | Free                 |
