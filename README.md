@@ -12,9 +12,7 @@ I figure this might save me a bit of time in representing (mostly) the same prod
 
 ------
 
-[TOC]
-
-
+{% include toc.html html=content %}
 
 ------
 
