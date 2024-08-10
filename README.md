@@ -8,6 +8,10 @@ In contract with previous versions, this is a very cut-and-dried update to the r
 
 Categories are markdown documents and I jot down a few notes if I have any useful recommendations to share!
 
+## Recommendations By Type
+
+ - [Linux distros](https://github.com/danielrosehill/My_Tech_Stack/blob/46e83fd71bb93b7bbff9eff0c106fc7db566f1c7/linuxos.md)
+
 
 ## Author
 
