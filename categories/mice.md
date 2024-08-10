@@ -14,7 +14,7 @@ I own both the Logitech **Lift** and the **MX Vertical** but the MX Vertical is 
 
 On Fedora, [Solaar](https://src.fedoraproject.org/rpms/solaar) picks up the device without effort and has options for remapping buttons. There are a few other mice config tools too if you poke around the repos.
 
-[MX Vertical](images/mxvertical.webp)
+![MX Vertical](images/mxvertical.webp)
 
 ## Trackballs
 
@@ -24,5 +24,5 @@ I would include standalone trackballs in this category.
 
 Although reportedly beloved by architects my wife, who is an architect, attests that she has never seen anyone actually use one of them. This endears them to me
 
-[Trackballs](images/trackball.jpg)
+![Trackballs](images/trackball.jpg)
 

@@ -10,8 +10,8 @@ Categories are markdown documents and I jot down a few notes if I have any usefu
 
 ## Recommendations By Type
 
- - [Linux distros](https://github.com/danielrosehill/My_Tech_Stack/blob/46e83fd71bb93b7bbff9eff0c106fc7db566f1c7/linuxos.md)
-
+ - [Linux OSes](/categories/linuxos.md)
+ - [Mice & pointing devices](/categories/mice.md)
 
 ## Author
 
