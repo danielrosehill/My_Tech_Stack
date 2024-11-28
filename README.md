@@ -1,5 +1,7 @@
 # My Tech Stack & Recommendations
 
+![alt text](images/sloth-hugging-huge-cd.webp)
+
 ## Purpose Statement
 
 A list of tools that I use and recommend.
